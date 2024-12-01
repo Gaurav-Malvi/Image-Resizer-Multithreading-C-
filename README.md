@@ -12,10 +12,11 @@
 ## RESULTS!
 
 #### With Mutithreading
-![with_threading](https://github.com/user-attachments/assets/26ba4b87-bf60-4453-8f50-174a93f9daf2)
+![wt](https://github.com/user-attachments/assets/6b0621b9-002f-4886-aa78-796360c624e0)
+
 
 #### Without Mutithreading
-![no_threading](https://github.com/user-attachments/assets/0783ca17-fe23-40da-8d41-e70571a74aaf)
+![nt](https://github.com/user-attachments/assets/7dbde2c7-4082-454a-93c4-7d4282612612)
 
 
 ## TOOLS USED
