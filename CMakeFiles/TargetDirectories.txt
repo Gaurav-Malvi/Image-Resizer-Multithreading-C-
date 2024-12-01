@@ -1,0 +1,3 @@
+C:/Users/disha/Desktop/MultiThreading_Image_Resizer/CMakeFiles/result.dir
+C:/Users/disha/Desktop/MultiThreading_Image_Resizer/CMakeFiles/edit_cache.dir
+C:/Users/disha/Desktop/MultiThreading_Image_Resizer/CMakeFiles/rebuild_cache.dir
